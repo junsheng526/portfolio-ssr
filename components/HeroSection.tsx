@@ -17,7 +17,7 @@ export const HeroSection = () => {
           React, Next.js, Vue, and TypeScript, focusing on clean architecture,
           maintainable code, and great user experience.
         </p>
-        <a href="#projects" className="cta">
+        <a href="mailto:junshengchoo57@gmail.com" className="cta">
           Contact Me
         </a>
       </div>
